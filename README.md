@@ -46,7 +46,9 @@ Campaign spend **€78,840.65**, impressions **7,019,888**, CTR **3.19%**, CPC *
 - [Product & Inventory](Product%20%26%20Inventory.png)
 - [Campaign & Order](Campaign%20%26%20Order.png)
 
-The full Power BI `.pbix` project file has **not yet been uploaded**. The local report contains four dashboard pages plus a template page.
+- [Download the Power BI project — modelling barra.pbix](modelling%20barra.pbix)
+
+The uploaded Power BI file contains four dashboard pages plus a template page.
 
 ## Validation notes
 
