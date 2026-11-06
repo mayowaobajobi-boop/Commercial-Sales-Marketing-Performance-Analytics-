@@ -11,22 +11,22 @@ A four-page Power BI reporting project combining sales, customer, product, inven
 ## Four dashboard pages
 
 ### Executive Sales Overview
-![Executive Sales Overview](screenshots/01_Executive_Sales_Overview.png)
+![Executive Sales Overview](Executive%20Sales%20Overview.png)
 
 Total sales **€526,643.91**, profit **€194,440**, profit margin **36.9%**, **80 orders** and **47 purchasing customers** in the all-period view. The report includes monthly sales trends and previous-month comparisons.
 
 ### Customer & Geographic Performance
-![Customer and Geographic Performance](screenshots/02_Customer_Geographic.png)
+![Customer and Geographic Performance](Customer%20%26%20Geographic.png)
 
 Customer concentration, regional comparisons and geographical sales visualisations. The dashboard shows **44.62%** for the top-ten customer sales share.
 
 ### Product & Inventory Performance
-![Product and Inventory Performance](screenshots/03_Product_Inventory_Performance.png)
+![Product and Inventory Performance](Product%20%26%20Inventory.png)
 
 Product and category sales, margins, quantities and stock analysis. The shown view has **five low-stock products**.
 
 ### Campaign & Order Performance
-![Campaign and Order Performance](screenshots/04_Campaign_Order_Performance.png)
+![Campaign and Order Performance](Campaign%20%26%20Order.png)
 
 Campaign spend **€78,840.65**, impressions **7,019,888**, CTR **3.19%**, CPC **€0.35** and budget utilisation **97.33%**, plus order fulfilment and payment duration metrics.
 
@@ -41,10 +41,12 @@ Campaign spend **€78,840.65**, impressions **7,019,888**, CTR **3.19%**, CPC *
 
 ## Project files
 
-- [Power BI report](powerbi/Commercial_Sales_Marketing_Performance.pbix)
-- [Dashboard screenshots](screenshots/)
+- [Executive Sales Overview](Executive%20Sales%20Overview.png)
+- [Customer & Geographic](Customer%20%26%20Geographic.png)
+- [Product & Inventory](Product%20%26%20Inventory.png)
+- [Campaign & Order](Campaign%20%26%20Order.png)
 
-The PBIX report has four dashboard pages plus a template page.
+The full Power BI `.pbix` project file has **not yet been uploaded**. The local report contains four dashboard pages plus a template page.
 
 ## Validation notes
 
